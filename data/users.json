@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "name": "Admin",
+    "role": "admin"
+  },
+  {
+    "id": "student",
+    "email": "student@example.com",
+    "password": "student123",
+    "name": "HK",
+    "role": "student"
+  },
+  {
+    "id": "dev_user",
+    "email": "developer@example.com",
+    "password": "dev123",
+    "name": "Developer",
+    "role": "student"
+  },
+  {
+    "email": "aiml@gmail.com",
+    "password": "aiml7",
+    "name": "AAIILLL",
+    "role": "student",
+    "id": "rec_1782384245418_89n0l"
+  }
+]

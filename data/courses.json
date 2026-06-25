@@ -1,0 +1,87 @@
+[
+  {
+    "id": "course_1",
+    "title": "Development",
+    "provider": "Coursera",
+    "duration": "weeks",
+    "difficulty": "Beginner",
+    "skillsTaught": [
+      "React.js",
+      "Node.js",
+      "JavaScript",
+      "HTML"
+    ],
+    "link": "https://www.coursera.org/specializations/full-stack-react"
+  },
+  {
+    "id": "course_2",
+    "title": "Programming",
+    "provider": "Udemy",
+    "duration": "weeks",
+    "difficulty": "Intermediate",
+    "skillsTaught": "APIs",
+    "link": "https://www.udemy.com/course/java-programming/"
+  },
+  {
+    "id": "course_3",
+    "title": "Bootcamp",
+    "provider": "edX",
+    "duration": "weeks",
+    "difficulty": "Intermediate",
+    "skillsTaught": [
+      "Python",
+      "Pandas",
+      "scikit-learn",
+      "MySQL"
+    ],
+    "link": "https://www.edx.org/course/data-science"
+  },
+  {
+    "id": "course_4",
+    "title": "Vision",
+    "provider": "Pluralsight",
+    "duration": "weeks",
+    "difficulty": "Intermediate",
+    "skillsTaught": [
+      "AI/ML",
+      "OpenCV",
+      "LBPH",
+      "Python"
+    ],
+    "link": "https://www.pluralsight.com/courses/computer-vision"
+  },
+  {
+    "id": "course_5",
+    "title": "Practitioner",
+    "provider": "Training",
+    "duration": "weeks",
+    "difficulty": "Beginner",
+    "skillsTaught": "Computing",
+    "link": "https://aws.amazon.com/training/"
+  },
+  {
+    "id": "course_6",
+    "title": "Fundamentals",
+    "provider": "Simplilearn",
+    "duration": "weeks",
+    "difficulty": "Beginner",
+    "skillsTaught": [
+      "Security",
+      "Networking",
+      "Linux"
+    ],
+    "link": "https://www.simplilearn.com/cyber-security-fundamentals"
+  },
+  {
+    "id": "course_7",
+    "title": "Masterclass",
+    "provider": "Academy",
+    "duration": "weeks",
+    "difficulty": "Beginner",
+    "skillsTaught": [
+      "Design",
+      "Figma"
+    ],
+    "link": "https://www.figma.com/resources/learning-design/"
+  }
+]

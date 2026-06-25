@@ -1,0 +1,82 @@
+[
+  {
+    "id": "assess_riasec_1",
+    "userId": "student",
+    "type": "RIASEC",
+    "score": "85",
+    "answers": [
+      "Realistic:4",
+      "Investigative:5",
+      "Artistic:3",
+      "Social:2",
+      "Enterprising:3",
+      "Conventional:2"
+    ],
+    "recommendations": "projects.",
+    "createdAt": "2026-06-08T12:00:00Z"
+  },
+  {
+    "id": "assess_aptitude_1",
+    "userId": "student",
+    "type": "Aptitude",
+    "score": "78",
+    "answers": [
+      "Logical:80",
+      "Quantitative:75",
+      "Verbal:80"
+    ],
+    "recommendations": "solving.",
+    "createdAt": "2026-06-08T14:30:00Z"
+  },
+  {
+    "id": "assess_personality_1",
+    "userId": "student",
+    "type": "Personality",
+    "score": "90",
+    "answers": [
+      "Openness:85",
+      "Conscientiousness:90",
+      "Extraversion:60",
+      "Agreeableness:80",
+      "Neuroticism:30"
+    ],
+    "recommendations": "workspaces.",
+    "createdAt": "2026-06-09T09:12:00Z"
+  },
+  {
+    "userId": "admin",
+    "type": "RIASEC",
+    "score": 85,
+    "answers": "Realistic:5|Investigative:5|Artistic:1|Social:0|Enterprising:5|Conventional:0",
+    "recommendations": "Match found: Analytical Technical disciplines. Strongly recommend Full-Stack, Cyber, and AI/ML pathways.",
+    "createdAt": "2026-06-24T14:57:18.461Z",
+    "id": "rec_1782313038464_ci8kg"
+  },
+  {
+    "userId": "admin",
+    "type": "Aptitude",
+    "score": 100,
+    "answers": "Score:100|Correct:3|Total:3",
+    "recommendations": "Strong analytical core. Practice complex timed technical mockups to enter High-scale systems.",
+    "createdAt": "2026-06-24T14:58:41.331Z",
+    "id": "rec_1782313121332_4ymme"
+  },
+  {
+    "userId": "admin",
+    "type": "Personality",
+    "score": 90,
+    "answers": "Openness:5|Conscientiousness:4",
+    "recommendations": "High adaptability index. Recommended for fast-paced engineering teams utilizing Agile software sprints.",
+    "createdAt": "2026-06-24T14:59:06.208Z",
+    "id": "rec_1782313146209_2irik"
+  },
+  {
+    "userId": "admin",
+    "type": "Skill Gap",
+    "score": 100,
+    "answers": "SelfScore:100|IdentifiedGaps:0",
+    "recommendations": "Gaps identified in advanced frameworks. Explore modern course catalogs under 'Skills' to learn Node.js and AWS.",
+    "createdAt": "2026-06-24T14:59:34.561Z",
+    "id": "rec_1782313174565_9l4k6"
+  }
+]

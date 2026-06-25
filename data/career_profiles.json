@@ -1,0 +1,965 @@
+[
+  {
+    "id": "prof_1",
+    "userId": "user_1",
+    "headline": "Aspiring Software Engineer",
+    "location": "Remote",
+    "workPreference": "Remote",
+    "experienceLevel": "Entry Level",
+    "bio": "Aspiring Software Engineer with a strong interest in Web Development.",
+    "careerGoals": "Become a leading professional in Full-Stack Developer.",
+    "technicalSkills": [
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Communication",
+      "Teamwork",
+      "Problem Solving"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Google Cloud Certified"
+    ],
+    "interests": [
+      "Web Development",
+      "AI/ML",
+      "Cloud Computing"
+    ],
+    "preferredRoles": [
+      "Full-Stack Developer",
+      "Frontend Developer"
+    ],
+    "employabilityScore": 50,
+    "careerReadinessScore": 55
+  },
+  {
+    "id": "prof_2",
+    "userId": "user_2",
+    "headline": "Frontend Enthusiast",
+    "location": "On-site",
+    "workPreference": "On-site",
+    "experienceLevel": "Mid Level",
+    "bio": "Frontend Enthusiast with a strong interest in AI/ML.",
+    "careerGoals": "Become a leading professional in Frontend Developer.",
+    "technicalSkills": [
+      "TypeScript",
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django"
+    ],
+    "softSkills": [
+      "Teamwork",
+      "Problem Solving",
+      "Adaptability"
+    ],
+    "certifications": [
+      "Google Cloud Certified",
+      "Oracle Java Certified"
+    ],
+    "interests": [
+      "AI/ML",
+      "Cloud Computing",
+      "Cyber Security"
+    ],
+    "preferredRoles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "employabilityScore": 52,
+    "careerReadinessScore": 57
+  },
+  {
+    "id": "prof_3",
+    "userId": "user_3",
+    "headline": "Backend Specialist",
+    "location": "Hybrid",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Senior",
+    "bio": "Backend Specialist with a strong interest in Cloud Computing.",
+    "careerGoals": "Become a leading professional in Backend Developer.",
+    "technicalSkills": [
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Adaptability",
+      "Critical Thinking"
+    ],
+    "certifications": [
+      "Oracle Java Certified",
+      "Microsoft AZ-900"
+    ],
+    "interests": [
+      "Cloud Computing",
+      "Cyber Security",
+      "Mobile Apps"
+    ],
+    "preferredRoles": [
+      "Backend Developer",
+      "Data Scientist"
+    ],
+    "employabilityScore": 54,
+    "careerReadinessScore": 59
+  },
+  {
+    "id": "prof_4",
+    "userId": "user_4",
+    "headline": "AI & ML Learner",
+    "location": "Bengaluru",
+    "workPreference": "Remote",
+    "experienceLevel": "Lead",
+    "bio": "AI & ML Learner with a strong interest in Cyber Security.",
+    "careerGoals": "Become a leading professional in Data Scientist.",
+    "technicalSkills": [
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask",
+      "Java"
+    ],
+    "softSkills": [
+      "Adaptability",
+      "Critical Thinking",
+      "Leadership"
+    ],
+    "certifications": [
+      "Microsoft AZ-900",
+      "Certified Scrum Master"
+    ],
+    "interests": [
+      "Cyber Security",
+      "Mobile Apps",
+      "UI/UX"
+    ],
+    "preferredRoles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "employabilityScore": 56,
+    "careerReadinessScore": 61
+  },
+  {
+    "id": "prof_5",
+    "userId": "user_5",
+    "headline": "DevOps Practitioner",
+    "location": "New York",
+    "workPreference": "On-site",
+    "experienceLevel": "Entry Level",
+    "bio": "DevOps Practitioner with a strong interest in Mobile Apps.",
+    "careerGoals": "Become a leading professional in DevOps Engineer.",
+    "technicalSkills": [
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot"
+    ],
+    "softSkills": [
+      "Critical Thinking",
+      "Leadership",
+      "Time Management"
+    ],
+    "certifications": [
+      "Certified Scrum Master",
+      "Cisco CCNA"
+    ],
+    "interests": [
+      "Mobile Apps",
+      "UI/UX",
+      "Data Analytics"
+    ],
+    "preferredRoles": [
+      "DevOps Engineer",
+      "Cloud Architect"
+    ],
+    "employabilityScore": 58,
+    "careerReadinessScore": 63
+  },
+  {
+    "id": "prof_6",
+    "userId": "user_6",
+    "headline": "Cloud Computing Student",
+    "location": "San Francisco",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Mid Level",
+    "bio": "Cloud Computing Student with a strong interest in UI/UX.",
+    "careerGoals": "Become a leading professional in Cloud Architect.",
+    "technicalSkills": [
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Time Management",
+      "Attention to Detail"
+    ],
+    "certifications": [
+      "Cisco CCNA",
+      "CompTIA Security+"
+    ],
+    "interests": [
+      "UI/UX",
+      "Data Analytics",
+      "Automation"
+    ],
+    "preferredRoles": [
+      "Cloud Architect",
+      "Product Manager"
+    ],
+    "employabilityScore": 60,
+    "careerReadinessScore": 65
+  },
+  {
+    "id": "prof_7",
+    "userId": "user_7",
+    "headline": "Cybersecurity Aspirant",
+    "location": "London",
+    "workPreference": "Remote",
+    "experienceLevel": "Senior",
+    "bio": "Cybersecurity Aspirant with a strong interest in Data Analytics.",
+    "careerGoals": "Become a leading professional in Product Manager.",
+    "technicalSkills": [
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift"
+    ],
+    "softSkills": [
+      "Time Management",
+      "Attention to Detail",
+      "Creativity"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "IBM Data Science Professional Certificate"
+    ],
+    "interests": [
+      "Data Analytics",
+      "Automation",
+      "Open Source"
+    ],
+    "preferredRoles": [
+      "Product Manager",
+      "QA Engineer"
+    ],
+    "employabilityScore": 62,
+    "careerReadinessScore": 67
+  },
+  {
+    "id": "prof_8",
+    "userId": "user_8",
+    "headline": "Data Science Explorer",
+    "location": "Berlin",
+    "workPreference": "On-site",
+    "experienceLevel": "Lead",
+    "bio": "Data Science Explorer with a strong interest in Automation.",
+    "careerGoals": "Become a leading professional in QA Engineer.",
+    "technicalSkills": [
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C"
+    ],
+    "softSkills": [
+      "Attention to Detail",
+      "Creativity",
+      "Collaboration"
+    ],
+    "certifications": [
+      "IBM Data Science Professional Certificate"
+    ],
+    "interests": [
+      "Automation",
+      "Open Source",
+      "Blockchain"
+    ],
+    "preferredRoles": [
+      "QA Engineer",
+      "Full-Stack Developer"
+    ],
+    "employabilityScore": 64,
+    "careerReadinessScore": 69
+  },
+  {
+    "id": "prof_9",
+    "userId": "user_9",
+    "headline": "Product-focused Developer",
+    "location": "Toronto",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Entry Level",
+    "bio": "Product-focused Developer with a strong interest in Open Source.",
+    "careerGoals": "Become a leading professional in Full-Stack Developer.",
+    "technicalSkills": [
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#"
+    ],
+    "softSkills": [
+      "Creativity",
+      "Collaboration"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Google Cloud Certified"
+    ],
+    "interests": [
+      "Open Source",
+      "Blockchain",
+      "Web Development"
+    ],
+    "preferredRoles": [
+      "Full-Stack Developer",
+      "Frontend Developer"
+    ],
+    "employabilityScore": 66,
+    "careerReadinessScore": 71
+  },
+  {
+    "id": "prof_10",
+    "userId": "user_10",
+    "headline": "Software Architect in Training",
+    "location": "Singapore",
+    "workPreference": "Remote",
+    "experienceLevel": "Mid Level",
+    "bio": "Software Architect in Training with a strong interest in Blockchain.",
+    "careerGoals": "Become a leading professional in Frontend Developer.",
+    "technicalSkills": [
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET"
+    ],
+    "softSkills": [
+      "Collaboration"
+    ],
+    "certifications": [
+      "Google Cloud Certified",
+      "Oracle Java Certified"
+    ],
+    "interests": [
+      "Blockchain",
+      "Web Development",
+      "AI/ML"
+    ],
+    "preferredRoles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "employabilityScore": 68,
+    "careerReadinessScore": 73
+  },
+  {
+    "id": "prof_11",
+    "userId": "user_11",
+    "headline": "Aspiring Software Engineer",
+    "location": "Remote",
+    "workPreference": "On-site",
+    "experienceLevel": "Senior",
+    "bio": "Aspiring Software Engineer with a strong interest in Web Development.",
+    "careerGoals": "Become a leading professional in Backend Developer.",
+    "technicalSkills": [
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL"
+    ],
+    "softSkills": [
+      "Communication",
+      "Teamwork",
+      "Problem Solving"
+    ],
+    "certifications": [
+      "Oracle Java Certified",
+      "Microsoft AZ-900"
+    ],
+    "interests": [
+      "Web Development",
+      "AI/ML",
+      "Cloud Computing"
+    ],
+    "preferredRoles": [
+      "Backend Developer",
+      "Data Scientist"
+    ],
+    "employabilityScore": 70,
+    "careerReadinessScore": 75
+  },
+  {
+    "id": "prof_12",
+    "userId": "user_12",
+    "headline": "Frontend Enthusiast",
+    "location": "On-site",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Lead",
+    "bio": "Frontend Enthusiast with a strong interest in AI/ML.",
+    "careerGoals": "Become a leading professional in Data Scientist.",
+    "technicalSkills": [
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL"
+    ],
+    "softSkills": [
+      "Teamwork",
+      "Problem Solving",
+      "Adaptability"
+    ],
+    "certifications": [
+      "Microsoft AZ-900",
+      "Certified Scrum Master"
+    ],
+    "interests": [
+      "AI/ML",
+      "Cloud Computing",
+      "Cyber Security"
+    ],
+    "preferredRoles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "employabilityScore": 72,
+    "careerReadinessScore": 77
+  },
+  {
+    "id": "prof_13",
+    "userId": "user_13",
+    "headline": "Backend Specialist",
+    "location": "Hybrid",
+    "workPreference": "Remote",
+    "experienceLevel": "Entry Level",
+    "bio": "Backend Specialist with a strong interest in Cloud Computing.",
+    "careerGoals": "Become a leading professional in DevOps Engineer.",
+    "technicalSkills": [
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Adaptability",
+      "Critical Thinking"
+    ],
+    "certifications": [
+      "Certified Scrum Master",
+      "Cisco CCNA"
+    ],
+    "interests": [
+      "Cloud Computing",
+      "Cyber Security",
+      "Mobile Apps"
+    ],
+    "preferredRoles": [
+      "DevOps Engineer",
+      "Cloud Architect"
+    ],
+    "employabilityScore": 74,
+    "careerReadinessScore": 79
+  },
+  {
+    "id": "prof_14",
+    "userId": "user_14",
+    "headline": "AI & ML Learner",
+    "location": "Bengaluru",
+    "workPreference": "On-site",
+    "experienceLevel": "Mid Level",
+    "bio": "AI & ML Learner with a strong interest in Cyber Security.",
+    "careerGoals": "Become a leading professional in Cloud Architect.",
+    "technicalSkills": [
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Adaptability",
+      "Critical Thinking",
+      "Leadership"
+    ],
+    "certifications": [
+      "Cisco CCNA",
+      "CompTIA Security+"
+    ],
+    "interests": [
+      "Cyber Security",
+      "Mobile Apps",
+      "UI/UX"
+    ],
+    "preferredRoles": [
+      "Cloud Architect",
+      "Product Manager"
+    ],
+    "employabilityScore": 76,
+    "careerReadinessScore": 81
+  },
+  {
+    "id": "prof_15",
+    "userId": "user_15",
+    "headline": "DevOps Practitioner",
+    "location": "New York",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Senior",
+    "bio": "DevOps Practitioner with a strong interest in Mobile Apps.",
+    "careerGoals": "Become a leading professional in Product Manager.",
+    "technicalSkills": [
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "softSkills": [
+      "Critical Thinking",
+      "Leadership",
+      "Time Management"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "IBM Data Science Professional Certificate"
+    ],
+    "interests": [
+      "Mobile Apps",
+      "UI/UX",
+      "Data Analytics"
+    ],
+    "preferredRoles": [
+      "Product Manager",
+      "QA Engineer"
+    ],
+    "employabilityScore": 78,
+    "careerReadinessScore": 83
+  },
+  {
+    "id": "prof_16",
+    "userId": "user_16",
+    "headline": "Cloud Computing Student",
+    "location": "San Francisco",
+    "workPreference": "Remote",
+    "experienceLevel": "Lead",
+    "bio": "Cloud Computing Student with a strong interest in UI/UX.",
+    "careerGoals": "Become a leading professional in QA Engineer.",
+    "technicalSkills": [
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services"
+    ],
+    "softSkills": [
+      "Leadership",
+      "Time Management",
+      "Attention to Detail"
+    ],
+    "certifications": [
+      "IBM Data Science Professional Certificate"
+    ],
+    "interests": [
+      "UI/UX",
+      "Data Analytics",
+      "Automation"
+    ],
+    "preferredRoles": [
+      "QA Engineer",
+      "Full-Stack Developer"
+    ],
+    "employabilityScore": 80,
+    "careerReadinessScore": 85
+  },
+  {
+    "id": "prof_17",
+    "userId": "user_17",
+    "headline": "Cybersecurity Aspirant",
+    "location": "London",
+    "workPreference": "On-site",
+    "experienceLevel": "Entry Level",
+    "bio": "Cybersecurity Aspirant with a strong interest in Data Analytics.",
+    "careerGoals": "Become a leading professional in Full-Stack Developer.",
+    "technicalSkills": [
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure"
+    ],
+    "softSkills": [
+      "Time Management",
+      "Attention to Detail",
+      "Creativity"
+    ],
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Google Cloud Certified"
+    ],
+    "interests": [
+      "Data Analytics",
+      "Automation",
+      "Open Source"
+    ],
+    "preferredRoles": [
+      "Full-Stack Developer",
+      "Frontend Developer"
+    ],
+    "employabilityScore": 82,
+    "careerReadinessScore": 87
+  },
+  {
+    "id": "prof_18",
+    "userId": "user_18",
+    "headline": "Data Science Explorer",
+    "location": "Berlin",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Mid Level",
+    "bio": "Data Science Explorer with a strong interest in Automation.",
+    "careerGoals": "Become a leading professional in Frontend Developer.",
+    "technicalSkills": [
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud"
+    ],
+    "softSkills": [
+      "Attention to Detail",
+      "Creativity",
+      "Collaboration"
+    ],
+    "certifications": [
+      "Google Cloud Certified",
+      "Oracle Java Certified"
+    ],
+    "interests": [
+      "Automation",
+      "Open Source",
+      "Blockchain"
+    ],
+    "preferredRoles": [
+      "Frontend Developer",
+      "Backend Developer"
+    ],
+    "employabilityScore": 84,
+    "careerReadinessScore": 89
+  },
+  {
+    "id": "prof_19",
+    "userId": "user_19",
+    "headline": "Product-focused Developer",
+    "location": "Toronto",
+    "workPreference": "Remote",
+    "experienceLevel": "Senior",
+    "bio": "Product-focused Developer with a strong interest in Open Source.",
+    "careerGoals": "Become a leading professional in Backend Developer.",
+    "technicalSkills": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud",
+      "Docker"
+    ],
+    "softSkills": [
+      "Creativity",
+      "Collaboration"
+    ],
+    "certifications": [
+      "Oracle Java Certified",
+      "Microsoft AZ-900"
+    ],
+    "interests": [
+      "Open Source",
+      "Blockchain",
+      "Web Development"
+    ],
+    "preferredRoles": [
+      "Backend Developer",
+      "Data Scientist"
+    ],
+    "employabilityScore": 86,
+    "careerReadinessScore": 91
+  },
+  {
+    "id": "prof_20",
+    "userId": "user_20",
+    "headline": "Software Architect in Training",
+    "location": "Singapore",
+    "workPreference": "On-site",
+    "experienceLevel": "Lead",
+    "bio": "Software Architect in Training with a strong interest in Blockchain.",
+    "careerGoals": "Become a leading professional in Data Scientist.",
+    "technicalSkills": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Collaboration"
+    ],
+    "certifications": [
+      "Microsoft AZ-900",
+      "Certified Scrum Master"
+    ],
+    "interests": [
+      "Blockchain",
+      "Web Development",
+      "AI/ML"
+    ],
+    "preferredRoles": [
+      "Data Scientist",
+      "DevOps Engineer"
+    ],
+    "employabilityScore": 88,
+    "careerReadinessScore": 93
+  },
+  {
+    "userId": "admin",
+    "headline": "Full Stack developer",
+    "location": "USA",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Entry Level",
+    "bio": "Enthusiastic and motivated technology professional seeking opportunities in Full Stack Development. Passionate about leveraging programming, problem-solving, and emerging technologies to develop efficient and user-centric applications. Dedicated to continuous learning, career growth, and achieving excellence in the software industry through innovation, collaboration, and practical experience.",
+    "careerGoals": "To build a successful career as a Full Stack Developer by developing scalable web applications, enhancing my technical expertise, and contributing to innovative projects. I aim to continuously learn emerging technologies, gain industry experience, and grow into a software engineering role where I can create impactful digital solutions.",
+    "technicalSkills": [
+      "HTML5",
+      "CSS3",
+      "JavaSCRIPT",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "MySQL",
+      "Python",
+      "Java",
+      "Git and GitHub",
+      "REST APIs",
+      "AWS/Cloud Services",
+      "Docker",
+      "TypeScript",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Team Collaboration",
+      "Communication",
+      "Time Management",
+      "Adaptability",
+      "Critical Thinking",
+      "Leadership",
+      "Creativity"
+    ],
+    "certifications": [
+      "Full Stack Web Development",
+      "Python Programming Certification",
+      "Java Programming Certification",
+      "Database Management Systems",
+      "Cloud Computing Fundamnetals",
+      "AI/ML"
+    ],
+    "interests": [
+      "Web Development",
+      "Software Engineering",
+      "AI",
+      "Open source Projects",
+      "UI/UX Design",
+      "Cloud Technologies",
+      "Learning New Technologies",
+      "Data Science"
+    ],
+    "preferredRoles": [
+      "Full Stack Developer",
+      "Front-End Developer",
+      "Back-End Developer",
+      "Software Developer",
+      "Web Application Developer",
+      "Data Analysts"
+    ],
+    "employabilityScore": 65,
+    "careerReadinessScore": 100,
+    "id": "rec_1782379486150_y7zlr",
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ]
+  },
+  {
+    "userId": "student",
+    "headline": "",
+    "location": "",
+    "workPreference": "Remote",
+    "experienceLevel": "Entry Level",
+    "bio": "",
+    "careerGoals": "",
+    "technicalSkills": [],
+    "softSkills": [],
+    "certifications": [],
+    "interests": [],
+    "preferredRoles": [],
+    "employabilityScore": 45,
+    "careerReadinessScore": 48,
+    "id": "rec_1782380046112_u9kxz"
+  },
+  {
+    "userId": "rec_1782384245418_89n0l",
+    "headline": "AI/ML Engineer",
+    "location": "",
+    "workPreference": "Hybrid",
+    "experienceLevel": "Entry Level",
+    "bio": "Aspiring AI/ML Engineer passionate about developing intelligent systems using Machine Learning, Deep Learning, Natural Language Processing, and Data Science. Skilled in building predictive models, analyzing complex datasets, and creating AI-powered solutions that solve real-world problems. Dedicated to continuous learning, innovation, and leveraging emerging technologies to drive impactful outcomes.",
+    "careerGoals": "To become a successful AI/ML Engineer by designing and deploying intelligent systems that solve real-world challenges. I aim to deepen my expertise in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing while contributing to innovative AI-driven products and research",
+    "technicalSkills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Tensor Flow",
+      "PyTorch",
+      "Scikit-learn",
+      "NLP",
+      "Computer Vision",
+      "OpenCV",
+      "Data Science",
+      "SQL",
+      "MongoDB",
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "AWS",
+      "git and github"
+    ],
+    "softSkills": [
+      "Analytical Thinking",
+      "problem solving",
+      "critical thinking",
+      "research skill",
+      "communication",
+      "team collaboration",
+      "Adaptability",
+      "time management",
+      "Leadership",
+      "creativity"
+    ],
+    "certifications": [
+      "machine learning specialization",
+      "deep learning fungamentals",
+      "python for data base",
+      "ai foundations",
+      "data analytics with python",
+      "ai for future workforce-STPI"
+    ],
+    "interests": [
+      "AI",
+      "ML",
+      "Deep Learning",
+      "Data Science",
+      "Computer Vision",
+      "NLP",
+      "Robotics",
+      "Research and Innovation",
+      "Open Source AI Projects"
+    ],
+    "preferredRoles": [
+      "AI/ML Engineer",
+      "ML Engineer",
+      "Data Scientist",
+      "AI Researcg Engineer",
+      "NLP Engineer",
+      "Computer Vision Engineer",
+      "Deep Learning Engineer",
+      "Data Analyst"
+    ],
+    "employabilityScore": 65,
+    "careerReadinessScore": 100,
+    "id": "rec_1782384245420_setuu",
+    "recommendedCareer": "Data Scientist",
+    "recommendedCareerSkills": [
+      "Python",
+      "Pandas",
+      "scikit-learn",
+      "SQL",
+      "Machine Learning"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+id,userId,name,category,level,progress
+skill_1,student,JavaScript,language,Intermediate,53
+skill_2,student,TypeScript,language,Beginner,56
+skill_3,student,React.js,framework,Advanced,59
+skill_4,student,Angular,framework,Intermediate,62
+skill_5,student,Vue.js,framework,Beginner,65
+skill_6,student,Node.js,framework,Advanced,68
+skill_7,student,Express.js,framework,Intermediate,71
+skill_8,student,Python,language,Beginner,74
+skill_9,student,Django,framework,Advanced,77
+skill_10,student,Flask,framework,Intermediate,80
+skill_11,student,Java,language,Beginner,83
+skill_12,student,Spring Boot,framework,Advanced,86
+skill_13,student,Kotlin,language,Intermediate,89
+skill_14,student,Swift,language,Beginner,92
+skill_15,student,Objective-C,language,Advanced,95
+skill_16,student,C#,language,Intermediate,98
+skill_17,student,.NET,framework,Beginner,51
+skill_18,student,SQL,technical,Advanced,54
+skill_19,student,MySQL,technical,Intermediate,57
+skill_20,student,PostgreSQL,technical,Beginner,60
+skill_21,student,MongoDB,technical,Advanced,63
+skill_22,student,Redis,technical,Intermediate,66
+skill_23,student,AWS/Cloud Services,tool,Beginner,69
+skill_24,student,Azure,tool,Advanced,72
+skill_25,student,Google Cloud,tool,Intermediate,75
+skill_26,student,Docker,tool,Beginner,78
+skill_27,student,Kubernetes,tool,Advanced,81
+skill_28,student,CI/CD,technical,Intermediate,84
+skill_29,student,Terraform,tool,Beginner,87
+skill_30,student,Git,tool,Advanced,90
+skill_31,student,GitHub,tool,Intermediate,93
+skill_32,student,REST APIs,technical,Beginner,96
+skill_33,student,GraphQL,technical,Advanced,99
+skill_34,student,Machine Learning,technical,Intermediate,52
+skill_35,student,TensorFlow,framework,Beginner,55
+skill_36,student,PyTorch,framework,Advanced,58
+skill_37,student,scikit-learn,framework,Intermediate,61
+skill_38,student,Pandas,technical,Beginner,64
+skill_39,student,NumPy,technical,Advanced,67
+skill_40,student,Data Engineering,technical,Intermediate,70
+skill_41,student,Big Data,technical,Beginner,73
+skill_42,student,Spark,technical,Advanced,76
+skill_43,student,Hadoop,technical,Intermediate,79
+skill_44,student,Cyber Security,technical,Beginner,82
+skill_45,student,Network Security,technical,Advanced,85
+skill_46,student,Linux,tool,Intermediate,88
+skill_47,student,Shell Scripting,technical,Beginner,91
+skill_48,student,DevOps,technical,Advanced,94
+skill_49,student,Jenkins,tool,Intermediate,97
+skill_50,student,Figma,tool,Beginner,50
+skill_51,student,UI/UX Design,technical,Advanced,53
+skill_52,student,HTML,language,Intermediate,56
+skill_53,student,CSS,language,Beginner,59
+skill_54,student,Sass,tool,Advanced,62
+skill_55,student,Bootstrap,tool,Intermediate,65
+skill_56,student,Tailwind CSS,tool,Beginner,68
+skill_57,student,SEO,technical,Advanced,71
+skill_58,student,Analytics,technical,Intermediate,74
+skill_59,student,Product Management,technical,Beginner,77

@@ -1,0 +1,4 @@
+id,userId,type,score,answers,recommendations,createdAt
+assess_riasec_1,student,RIASEC,85,Realistic:4|Investigative:5|Artistic:3|Social:2|Enterprising:3|Conventional:2,Great fit for analytical technical roles such as Full-Stack Development and Data Science. Develop Investigative projects.,2026-06-08T12:00:00Z
+assess_aptitude_1,student,Aptitude,78,Logical:80|Quantitative:75|Verbal:80,Enhance data structures and algorithms practice. Focus on time-boxed quantitative problem solving.,2026-06-08T14:30:00Z
+assess_personality_1,student,Personality,90,Openness:85|Conscientiousness:90|Extraversion:60|Agreeableness:80|Neuroticism:30,Thrives in remote self-directed environments. Excellent team player in modern collaborative workspaces.,2026-06-09T09:12:00Z

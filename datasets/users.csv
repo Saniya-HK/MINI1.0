@@ -1,0 +1,4 @@
+id,email,password,name,role
+admin,admin@example.com,admin123,Admin,admin
+student,student@example.com,student123,Saniya HK,student
+dev_user,developer@example.com,dev123,John Developer,student

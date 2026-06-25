@@ -1,0 +1,41 @@
+id,title,company,location,type,experience,salary,skillsRequired,description
+job_1,Full Stack Developer,TechWave,Remote,remote,entry,$50k - $70k,JavaScript|TypeScript|React.js|Angular|Vue.js|Node.js,Full Stack Developer role working on techwave engineering initiatives.
+job_2,Software Engineer,NexaSoft,On-site,on-site,mid,$70k - $90k,TypeScript|React.js|Angular|Vue.js|Node.js|Express.js,Software Engineer role working on nexasoft engineering initiatives.
+job_3,Data Scientist,DataPulse,Hybrid,Hybrid,senior,$80k - $110k,React.js|Angular|Vue.js|Node.js|Express.js|Python,Data Scientist role working on datapulse engineering initiatives.
+job_4,Machine Learning Engineer,CloudSpan,Bengaluru,on-site,lead,$100k - $130k,Angular|Vue.js|Node.js|Express.js|Python|Django,Machine Learning Engineer role working on cloudspan engineering initiatives.
+job_5,DevOps Engineer,DevSphere,New York,on-site,entry,$120k - $150k,Vue.js|Node.js|Express.js|Python|Django|Flask,DevOps Engineer role working on devsphere engineering initiatives.
+job_6,Cloud Architect,SecureByte,San Francisco,on-site,mid,$140k - $170k,Node.js|Express.js|Python|Django|Flask|Java,Cloud Architect role working on securebyte engineering initiatives.
+job_7,UI/UX Designer,AppForge,London,on-site,senior,$160k - $190k,Express.js|Python|Django|Flask|Java|Spring Boot,UI/UX Designer role working on appforge engineering initiatives.
+job_8,Product Manager,Visionary Labs,Berlin,on-site,lead,$50k - $70k,Python|Django|Flask|Java|Spring Boot|Kotlin,Product Manager role working on visionary labs engineering initiatives.
+job_9,Cybersecurity Analyst,ByteCraft,Toronto,on-site,entry,$70k - $90k,Django|Flask|Java|Spring Boot|Kotlin|Swift,Cybersecurity Analyst role working on bytecraft engineering initiatives.
+job_10,Mobile App Developer,FutureLink,Singapore,on-site,mid,$80k - $110k,Flask|Java|Spring Boot|Kotlin|Swift|Objective-C,Mobile App Developer role working on futurelink engineering initiatives.
+job_11,Quality Assurance Engineer,InfinityWorks,Remote,remote,senior,$100k - $130k,Java|Spring Boot|Kotlin|Swift|Objective-C|C#,Quality Assurance Engineer role working on infinityworks engineering initiatives.
+job_12,Business Analyst,CodeCrafters,On-site,on-site,lead,$120k - $150k,Spring Boot|Kotlin|Swift|Objective-C|C#|.NET,Business Analyst role working on codecrafters engineering initiatives.
+job_13,Technical Project Manager,QuantumWorks,Hybrid,Hybrid,entry,$140k - $170k,Kotlin|Swift|Objective-C|C#|.NET|SQL,Technical Project Manager role working on quantumworks engineering initiatives.
+job_14,Systems Engineer,NovaFusion,Bengaluru,on-site,mid,$160k - $190k,Swift|Objective-C|C#|.NET|SQL|MySQL,Systems Engineer role working on novafusion engineering initiatives.
+job_15,Backend Engineer,AI Nexus,New York,on-site,senior,$50k - $70k,Objective-C|C#|.NET|SQL|MySQL|PostgreSQL,Backend Engineer role working on ai nexus engineering initiatives.
+job_16,Frontend Developer,Skyline Systems,San Francisco,on-site,lead,$70k - $90k,C#|.NET|SQL|MySQL|PostgreSQL|MongoDB,Frontend Developer role working on skyline systems engineering initiatives.
+job_17,AI Research Engineer,BlueWave Tech,London,on-site,entry,$80k - $110k,.NET|SQL|MySQL|PostgreSQL|MongoDB|Redis,AI Research Engineer role working on bluewave tech engineering initiatives.
+job_18,Data Engineer,NextGen Solutions,Berlin,on-site,mid,$100k - $130k,SQL|MySQL|PostgreSQL|MongoDB|Redis|AWS/Cloud Services,Data Engineer role working on nextgen solutions engineering initiatives.
+job_19,Technical Support Engineer,SparksTech,Toronto,on-site,senior,$120k - $150k,MySQL|PostgreSQL|MongoDB|Redis|AWS/Cloud Services|Azure,Technical Support Engineer role working on sparkstech engineering initiatives.
+job_20,Network Engineer,Vertex Innovations,Singapore,on-site,lead,$140k - $170k,PostgreSQL|MongoDB|Redis|AWS/Cloud Services|Azure|Google Cloud,Network Engineer role working on vertex innovations engineering initiatives.
+job_21,Database Administrator,Pioneer Labs,Remote,remote,entry,$160k - $190k,MongoDB|Redis|AWS/Cloud Services|Azure|Google Cloud|Docker,Database Administrator role working on pioneer labs engineering initiatives.
+job_22,Blockchain Developer,TechWave,On-site,on-site,mid,$50k - $70k,Redis|AWS/Cloud Services|Azure|Google Cloud|Docker|Kubernetes,Blockchain Developer role working on techwave engineering initiatives.
+job_23,Site Reliability Engineer,NexaSoft,Hybrid,Hybrid,senior,$70k - $90k,AWS/Cloud Services|Azure|Google Cloud|Docker|Kubernetes|CI/CD,Site Reliability Engineer role working on nexasoft engineering initiatives.
+job_24,Embedded Systems Engineer,DataPulse,Bengaluru,on-site,lead,$80k - $110k,Azure|Google Cloud|Docker|Kubernetes|CI/CD|Terraform,Embedded Systems Engineer role working on datapulse engineering initiatives.
+job_25,Game Developer,CloudSpan,New York,on-site,entry,$100k - $130k,Google Cloud|Docker|Kubernetes|CI/CD|Terraform|Git,Game Developer role working on cloudspan engineering initiatives.
+job_26,E-commerce Specialist,DevSphere,San Francisco,on-site,mid,$120k - $150k,Docker|Kubernetes|CI/CD|Terraform|Git|GitHub,E-commerce Specialist role working on devsphere engineering initiatives.
+job_27,Salesforce Developer,SecureByte,London,on-site,senior,$140k - $170k,Kubernetes|CI/CD|Terraform|Git|GitHub|REST APIs,Salesforce Developer role working on securebyte engineering initiatives.
+job_28,Digital Marketing Specialist,AppForge,Berlin,on-site,lead,$160k - $190k,CI/CD|Terraform|Git|GitHub|REST APIs|GraphQL,Digital Marketing Specialist role working on appforge engineering initiatives.
+job_29,Cloud Security Engineer,Visionary Labs,Toronto,on-site,entry,$50k - $70k,Terraform|Git|GitHub|REST APIs|GraphQL|Machine Learning,Cloud Security Engineer role working on visionary labs engineering initiatives.
+job_30,IoT Engineer,ByteCraft,Singapore,on-site,mid,$70k - $90k,Git|GitHub|REST APIs|GraphQL|Machine Learning|TensorFlow,IoT Engineer role working on bytecraft engineering initiatives.
+job_31,Full Stack Developer,FutureLink,Remote,remote,senior,$80k - $110k,GitHub|REST APIs|GraphQL|Machine Learning|TensorFlow|PyTorch,Full Stack Developer role working on futurelink engineering initiatives.
+job_32,Software Engineer,InfinityWorks,On-site,on-site,lead,$100k - $130k,REST APIs|GraphQL|Machine Learning|TensorFlow|PyTorch|scikit-learn,Software Engineer role working on infinityworks engineering initiatives.
+job_33,Data Scientist,CodeCrafters,Hybrid,Hybrid,entry,$120k - $150k,GraphQL|Machine Learning|TensorFlow|PyTorch|scikit-learn|Pandas,Data Scientist role working on codecrafters engineering initiatives.
+job_34,Machine Learning Engineer,QuantumWorks,Bengaluru,on-site,mid,$140k - $170k,Machine Learning|TensorFlow|PyTorch|scikit-learn|Pandas|NumPy,Machine Learning Engineer role working on quantumworks engineering initiatives.
+job_35,DevOps Engineer,NovaFusion,New York,on-site,senior,$160k - $190k,TensorFlow|PyTorch|scikit-learn|Pandas|NumPy|Data Engineering,DevOps Engineer role working on novafusion engineering initiatives.
+job_36,Cloud Architect,AI Nexus,San Francisco,on-site,lead,$50k - $70k,PyTorch|scikit-learn|Pandas|NumPy|Data Engineering|Big Data,Cloud Architect role working on ai nexus engineering initiatives.
+job_37,UI/UX Designer,Skyline Systems,London,on-site,entry,$70k - $90k,scikit-learn|Pandas|NumPy|Data Engineering|Big Data|Spark,UI/UX Designer role working on skyline systems engineering initiatives.
+job_38,Product Manager,BlueWave Tech,Berlin,on-site,mid,$80k - $110k,Pandas|NumPy|Data Engineering|Big Data|Spark|Hadoop,Product Manager role working on bluewave tech engineering initiatives.
+job_39,Cybersecurity Analyst,NextGen Solutions,Toronto,on-site,senior,$100k - $130k,NumPy|Data Engineering|Big Data|Spark|Hadoop|Cyber Security,Cybersecurity Analyst role working on nextgen solutions engineering initiatives.
+job_40,Mobile App Developer,SparksTech,Singapore,on-site,lead,$120k - $150k,Data Engineering|Big Data|Spark|Hadoop|Cyber Security|Network Security,Mobile App Developer role working on sparkstech engineering initiatives.

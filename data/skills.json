@@ -1,0 +1,522 @@
+[
+  {
+    "id": "skill_1",
+    "userId": "student",
+    "name": "JavaScript",
+    "category": "language",
+    "level": "Intermediate",
+    "progress": 53
+  },
+  {
+    "id": "skill_2",
+    "userId": "student",
+    "name": "TypeScript",
+    "category": "language",
+    "level": "Beginner",
+    "progress": 56
+  },
+  {
+    "id": "skill_3",
+    "userId": "student",
+    "name": "React.js",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 59
+  },
+  {
+    "id": "skill_4",
+    "userId": "student",
+    "name": "Angular",
+    "category": "framework",
+    "level": "Intermediate",
+    "progress": 62
+  },
+  {
+    "id": "skill_5",
+    "userId": "student",
+    "name": "Vue.js",
+    "category": "framework",
+    "level": "Beginner",
+    "progress": 65
+  },
+  {
+    "id": "skill_6",
+    "userId": "student",
+    "name": "Node.js",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 68
+  },
+  {
+    "id": "skill_7",
+    "userId": "student",
+    "name": "Express.js",
+    "category": "framework",
+    "level": "Intermediate",
+    "progress": 71
+  },
+  {
+    "id": "skill_8",
+    "userId": "student",
+    "name": "Python",
+    "category": "language",
+    "level": "Beginner",
+    "progress": 74
+  },
+  {
+    "id": "skill_9",
+    "userId": "student",
+    "name": "Django",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 77
+  },
+  {
+    "id": "skill_10",
+    "userId": "student",
+    "name": "Flask",
+    "category": "framework",
+    "level": "Intermediate",
+    "progress": 80
+  },
+  {
+    "id": "skill_11",
+    "userId": "student",
+    "name": "Java",
+    "category": "language",
+    "level": "Beginner",
+    "progress": 83
+  },
+  {
+    "id": "skill_12",
+    "userId": "student",
+    "name": "Spring Boot",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 86
+  },
+  {
+    "id": "skill_13",
+    "userId": "student",
+    "name": "Kotlin",
+    "category": "language",
+    "level": "Intermediate",
+    "progress": 89
+  },
+  {
+    "id": "skill_14",
+    "userId": "student",
+    "name": "Swift",
+    "category": "language",
+    "level": "Beginner",
+    "progress": 92
+  },
+  {
+    "id": "skill_15",
+    "userId": "student",
+    "name": "Objective-C",
+    "category": "language",
+    "level": "Advanced",
+    "progress": 95
+  },
+  {
+    "id": "skill_16",
+    "userId": "student",
+    "name": "C#",
+    "category": "language",
+    "level": "Intermediate",
+    "progress": 98
+  },
+  {
+    "id": "skill_17",
+    "userId": "student",
+    "name": ".NET",
+    "category": "framework",
+    "level": "Beginner",
+    "progress": 51
+  },
+  {
+    "id": "skill_18",
+    "userId": "student",
+    "name": "SQL",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 54
+  },
+  {
+    "id": "skill_19",
+    "userId": "student",
+    "name": "MySQL",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 57
+  },
+  {
+    "id": "skill_20",
+    "userId": "student",
+    "name": "PostgreSQL",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 60
+  },
+  {
+    "id": "skill_21",
+    "userId": "student",
+    "name": "MongoDB",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 63
+  },
+  {
+    "id": "skill_22",
+    "userId": "student",
+    "name": "Redis",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 66
+  },
+  {
+    "id": "skill_23",
+    "userId": "student",
+    "name": "AWS/Cloud Services",
+    "category": "tool",
+    "level": "Beginner",
+    "progress": 69
+  },
+  {
+    "id": "skill_24",
+    "userId": "student",
+    "name": "Azure",
+    "category": "tool",
+    "level": "Advanced",
+    "progress": 72
+  },
+  {
+    "id": "skill_25",
+    "userId": "student",
+    "name": "Google Cloud",
+    "category": "tool",
+    "level": "Intermediate",
+    "progress": 75
+  },
+  {
+    "id": "skill_26",
+    "userId": "student",
+    "name": "Docker",
+    "category": "tool",
+    "level": "Beginner",
+    "progress": 78
+  },
+  {
+    "id": "skill_27",
+    "userId": "student",
+    "name": "Kubernetes",
+    "category": "tool",
+    "level": "Advanced",
+    "progress": 81
+  },
+  {
+    "id": "skill_28",
+    "userId": "student",
+    "name": "CI/CD",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 84
+  },
+  {
+    "id": "skill_29",
+    "userId": "student",
+    "name": "Terraform",
+    "category": "tool",
+    "level": "Beginner",
+    "progress": 87
+  },
+  {
+    "id": "skill_30",
+    "userId": "student",
+    "name": "Git",
+    "category": "tool",
+    "level": "Advanced",
+    "progress": 90
+  },
+  {
+    "id": "skill_31",
+    "userId": "student",
+    "name": "GitHub",
+    "category": "tool",
+    "level": "Intermediate",
+    "progress": 93
+  },
+  {
+    "id": "skill_32",
+    "userId": "student",
+    "name": "REST APIs",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 96
+  },
+  {
+    "id": "skill_33",
+    "userId": "student",
+    "name": "GraphQL",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 99
+  },
+  {
+    "id": "skill_34",
+    "userId": "student",
+    "name": "Machine Learning",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 52
+  },
+  {
+    "id": "skill_35",
+    "userId": "student",
+    "name": "TensorFlow",
+    "category": "framework",
+    "level": "Beginner",
+    "progress": 55
+  },
+  {
+    "id": "skill_36",
+    "userId": "student",
+    "name": "PyTorch",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 58
+  },
+  {
+    "id": "skill_37",
+    "userId": "student",
+    "name": "scikit-learn",
+    "category": "framework",
+    "level": "Intermediate",
+    "progress": 61
+  },
+  {
+    "id": "skill_38",
+    "userId": "student",
+    "name": "Pandas",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 64
+  },
+  {
+    "id": "skill_39",
+    "userId": "student",
+    "name": "NumPy",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 67
+  },
+  {
+    "id": "skill_40",
+    "userId": "student",
+    "name": "Data Engineering",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 70
+  },
+  {
+    "id": "skill_41",
+    "userId": "student",
+    "name": "Big Data",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 73
+  },
+  {
+    "id": "skill_42",
+    "userId": "student",
+    "name": "Spark",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 76
+  },
+  {
+    "id": "skill_43",
+    "userId": "student",
+    "name": "Hadoop",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 79
+  },
+  {
+    "id": "skill_44",
+    "userId": "student",
+    "name": "Cyber Security",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 82
+  },
+  {
+    "id": "skill_45",
+    "userId": "student",
+    "name": "Network Security",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 85
+  },
+  {
+    "id": "skill_46",
+    "userId": "student",
+    "name": "Linux",
+    "category": "tool",
+    "level": "Intermediate",
+    "progress": 88
+  },
+  {
+    "id": "skill_47",
+    "userId": "student",
+    "name": "Shell Scripting",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 91
+  },
+  {
+    "id": "skill_48",
+    "userId": "student",
+    "name": "DevOps",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 94
+  },
+  {
+    "id": "skill_49",
+    "userId": "student",
+    "name": "Jenkins",
+    "category": "tool",
+    "level": "Intermediate",
+    "progress": 97
+  },
+  {
+    "id": "skill_50",
+    "userId": "student",
+    "name": "Figma",
+    "category": "tool",
+    "level": "Beginner",
+    "progress": 50
+  },
+  {
+    "id": "skill_51",
+    "userId": "student",
+    "name": "UI/UX Design",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 53
+  },
+  {
+    "id": "skill_52",
+    "userId": "student",
+    "name": "HTML",
+    "category": "language",
+    "level": "Intermediate",
+    "progress": 56
+  },
+  {
+    "id": "skill_53",
+    "userId": "student",
+    "name": "CSS",
+    "category": "language",
+    "level": "Beginner",
+    "progress": 59
+  },
+  {
+    "id": "skill_54",
+    "userId": "student",
+    "name": "Sass",
+    "category": "tool",
+    "level": "Advanced",
+    "progress": 62
+  },
+  {
+    "id": "skill_55",
+    "userId": "student",
+    "name": "Bootstrap",
+    "category": "tool",
+    "level": "Intermediate",
+    "progress": 65
+  },
+  {
+    "id": "skill_56",
+    "userId": "student",
+    "name": "Tailwind CSS",
+    "category": "tool",
+    "level": "Beginner",
+    "progress": 68
+  },
+  {
+    "id": "skill_57",
+    "userId": "student",
+    "name": "SEO",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 71
+  },
+  {
+    "id": "skill_58",
+    "userId": "student",
+    "name": "Analytics",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 74
+  },
+  {
+    "id": "skill_59",
+    "userId": "student",
+    "name": "Product Management",
+    "category": "technical",
+    "level": "Beginner",
+    "progress": 77
+  },
+  {
+    "userId": "admin",
+    "name": "React.js",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 30,
+    "id": "rec_1782382208733_3qe40"
+  },
+  {
+    "userId": "admin",
+    "name": "AWS/Cloud Services",
+    "category": "technical",
+    "level": "Advanced",
+    "progress": 30,
+    "id": "rec_1782382226304_vqqyr"
+  },
+  {
+    "userId": "admin",
+    "name": "Docker",
+    "category": "tool",
+    "level": "Advanced",
+    "progress": 30,
+    "id": "rec_1782382233604_8pbfq"
+  },
+  {
+    "userId": "admin",
+    "name": "REST APIs",
+    "category": "technical",
+    "level": "Intermediate",
+    "progress": 30,
+    "id": "rec_1782382238133_zt4by"
+  },
+  {
+    "userId": "admin",
+    "name": "TypeScript",
+    "category": "language",
+    "level": "Beginner",
+    "progress": 30,
+    "id": "rec_1782382242942_lfso1"
+  },
+  {
+    "userId": "admin",
+    "name": "Node.js",
+    "category": "framework",
+    "level": "Advanced",
+    "progress": 30,
+    "id": "rec_1782382247087_i9gl0"
+  }
+]

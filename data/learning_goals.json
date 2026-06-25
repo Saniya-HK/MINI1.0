@@ -1,0 +1,41 @@
+[
+  {
+    "id": "goal_1",
+    "userId": "student",
+    "title": "backend",
+    "targetDate": "2026-08-15",
+    "status": "Progress",
+    "skills": [
+      "React.js",
+      "Node.js"
+    ],
+    "milestones": "Started"
+  },
+  {
+    "id": "goal_2",
+    "userId": "student",
+    "title": "Practitioner",
+    "targetDate": "2026-07-20",
+    "status": "Started",
+    "skills": "Services",
+    "milestones": "Started"
+  },
+  {
+    "id": "goal_3",
+    "userId": "student",
+    "title": "Interviews",
+    "targetDate": "2026-06-12",
+    "status": "Completed",
+    "skills": "Communication",
+    "milestones": "questions:Completed"
+  },
+  {
+    "userId": "admin",
+    "title": "Complete docker course",
+    "targetDate": "2026-06-24",
+    "status": "Completed",
+    "skills": "",
+    "milestones": "Read documentation:Completed|Build sample prototype:Completed",
+    "id": "rec_1782313804218_ra87h"
+  }
+]

@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "res_1",
+    "userId": "student",
+    "fileName": "SaniyaHK_SJCE,JSSSTU.pdf",
+    "overallScore": "72",
+    "atsScore": "68",
+    "formatScore": "85",
+    "skillsScore": "72",
+    "educationScore": "95",
+    "experienceScore": "40",
+    "keywordsScore": "62",
+    "strengths": [
+      "Outstanding academic record with a 9.41 CGPA",
+      "Diverse range of projects covering AI, Web Development, and Database Management",
+      "Strong core CS fundamentals (DSA, OS, DBMS)",
+      "Multilingual capability"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or user-base metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in the 24hr Hackathon and highlight any specific problems solved",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "Java",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "DSA",
+      "OOPs",
+      "Operating Systems",
+      "DBMS",
+      "CN",
+      "OpenCV",
+      "LBPH",
+      "Web Development",
+      "AI/ML",
+      "Cyber Security"
+    ]
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHK_SJCE,JSSSTU.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "DSA",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "id": "rec_1782313193378_uhx7k"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "id": "rec_1782369027122_eyesj"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "id": "rec_1782379322507_kxe5f"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "id": "rec_1782379367012_s0isj"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "id": "rec_1782379854039_u9u8d"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "id": "rec_1782379884334_0o122"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782382314676_ayb11"
+  },
+  {
+    "userId": "admin",
+    "fileName": "ATS_Full_Stack_Developer_Resume.pdf",
+    "overallScore": 65,
+    "atsScore": 60,
+    "formatScore": 80,
+    "skillsScore": 62,
+    "educationScore": 85,
+    "experienceScore": 35,
+    "keywordsScore": 55,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782382613671_bzfdq"
+  },
+  {
+    "userId": "admin",
+    "fileName": "AI_ML_Resume_ATS_95.pdf",
+    "overallScore": 65,
+    "atsScore": 60,
+    "formatScore": 80,
+    "skillsScore": 62,
+    "educationScore": 85,
+    "experienceScore": 35,
+    "keywordsScore": 55,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782382877935_wq9la"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782384084956_mnxf3"
+  },
+  {
+    "userId": "admin",
+    "fileName": "AI_ML_Resume_ATS_95.pdf",
+    "overallScore": 65,
+    "atsScore": 60,
+    "formatScore": 80,
+    "skillsScore": 62,
+    "educationScore": 85,
+    "experienceScore": 35,
+    "keywordsScore": 55,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782384098906_8na9p"
+  },
+  {
+    "userId": "rec_1782384245418_89n0l",
+    "fileName": "AI_ML_Resume_ATS_95.pdf",
+    "overallScore": 65,
+    "atsScore": 60,
+    "formatScore": 80,
+    "skillsScore": 62,
+    "educationScore": 85,
+    "experienceScore": 35,
+    "keywordsScore": 55,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Data Scientist",
+    "recommendedCareerSkills": [
+      "Python",
+      "Pandas",
+      "scikit-learn",
+      "SQL",
+      "Machine Learning"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 20,
+    "careerMissingSkills": [
+      "Pandas",
+      "scikit-learn",
+      "SQL",
+      "Machine Learning"
+    ],
+    "id": "rec_1782384814095_cbeh2"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782387137975_wj5ke"
+  },
+  {
+    "userId": "admin",
+    "fileName": "ATS_Full_Stack_Developer_Resume.pdf",
+    "overallScore": 65,
+    "atsScore": 60,
+    "formatScore": 80,
+    "skillsScore": 62,
+    "educationScore": 85,
+    "experienceScore": 35,
+    "keywordsScore": 55,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782387151618_zpndx"
+  },
+  {
+    "userId": "admin",
+    "fileName": "SaniyaHKJSS.pdf",
+    "overallScore": 72,
+    "atsScore": 68,
+    "formatScore": 85,
+    "skillsScore": 72,
+    "educationScore": 95,
+    "experienceScore": 40,
+    "keywordsScore": 62,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782387191733_rvnz9"
+  },
+  {
+    "userId": "admin",
+    "fileName": "ATS_Full_Stack_Developer_Resume.pdf",
+    "overallScore": 65,
+    "atsScore": 60,
+    "formatScore": 80,
+    "skillsScore": 62,
+    "educationScore": 85,
+    "experienceScore": 35,
+    "keywordsScore": 55,
+    "strengths": [
+      "Outstanding academic record with high grades/CGPA",
+      "Diverse range of projects covering AI, Web Development, and Databases",
+      "Strong core Computer Science fundamentals (DSA, OOPs, DBMS)"
+    ],
+    "weaknesses": [
+      "Lack of formal professional work experience or industrial internships",
+      "Missing exposure to modern high-velocity enterprise frameworks (e.g., React, Spring Boot)",
+      "Projects lack impact-based descriptions or production metrics"
+    ],
+    "suggestions": [
+      "Quantify project achievements using metrics (e.g., 'achieved 95% accuracy in face recognition' or 'reduced data retrieval time by 20%')",
+      "Include clickable links to your GitHub repositories or live project demos",
+      "Add a 'Relevant Coursework' section to showcase specialized learning in your degree",
+      "Clarify your role in software hackathons and highlight specific problem solving",
+      "Diversify the 'Technical Skills' section by adding modern web frameworks or cloud platforms you are currently learning"
+    ],
+    "missingSkills": [
+      "React.js",
+      "Node.js",
+      "Django",
+      "AWS/Cloud Services",
+      "Docker",
+      "Unit Testing",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "recommendedCareer": "Full-Stack Developer",
+    "recommendedCareerSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "extractedSkills": [
+      "C",
+      "CN",
+      "C",
+      "Java",
+      "Python",
+      "Javascript",
+      "HTML",
+      "MySQL",
+      "Git",
+      "Github",
+      "DSA",
+      "OOPs",
+      "Web development"
+    ],
+    "careerMatchScore": 0,
+    "careerMissingSkills": [
+      "React.js",
+      "Node.js",
+      "TypeScript",
+      "REST APIs",
+      "AWS/Cloud Services"
+    ],
+    "id": "rec_1782387322630_8w0mz"
+  }
+]

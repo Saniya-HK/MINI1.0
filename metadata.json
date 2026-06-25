@@ -1,0 +1,6 @@
+{
+  "name": "Smart Career Advisor",
+  "description": "An AI-powered smart career coaching, resume analysis, skill evaluation, job matching, and learning roadmap platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

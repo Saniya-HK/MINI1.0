@@ -1,0 +1,8 @@
+id,title,provider,duration,difficulty,skillsTaught,link
+course_1,Full Stack Web Development,Coursera,6 weeks,Beginner,React.js|Node.js|JavaScript|HTML,https://www.coursera.org/specializations/full-stack-react
+course_2,Advanced Java Programming,Udemy,4 weeks,Intermediate,Java|MySQL|OOPs|REST APIs,https://www.udemy.com/course/java-programming/
+course_3,Data Science Bootcamp,edX,8 weeks,Intermediate,Python|Pandas|scikit-learn|MySQL,https://www.edx.org/course/data-science
+course_4,Introduction to Computer Vision,Pluralsight,3 weeks,Intermediate,AI/ML|OpenCV|LBPH|Python,https://www.pluralsight.com/courses/computer-vision
+course_5,AWS Cloud Practitioner,AWS Training,2 weeks,Beginner,AWS/Cloud Services|Cloud Computing,https://aws.amazon.com/training/
+course_6,Cybersecurity Fundamentals,Simplilearn,5 weeks,Beginner,Cyber Security|Networking|Linux,https://www.simplilearn.com/cyber-security-fundamentals
+course_7,UI/UX Design Masterclass,Figma Academy,4 weeks,Beginner,UI/UX Design|Figma,https://www.figma.com/resources/learning-design/

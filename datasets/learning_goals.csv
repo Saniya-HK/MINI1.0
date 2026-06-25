@@ -1,0 +1,4 @@
+id,userId,title,targetDate,status,skills,milestones
+goal_1,student,Master React.js and Node.js backend,2026-08-15,In Progress,React.js|Node.js,Learn React basics:Completed|Build rich dashboard UI:Completed|Build secure Express backend API:In Progress|Deploy Full-Stack applet:Not Started
+goal_2,student,Get AWS Certified Practitioner,2026-07-20,Not Started,AWS/Cloud Services,Read AWS Whitepapers:Not Started|Take practice exam:Not Started|Schedule certification test:Not Started
+goal_3,student,Complete Technical Personality Mock Interviews,2026-06-12,Completed,Communication,Prepare standard answers:Completed|Do peer-to-peer review mockups:Completed|Refine behavioral questions:Completed

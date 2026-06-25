@@ -1,0 +1,722 @@
+[
+  {
+    "id": "job_1",
+    "title": "Full Stack Developer",
+    "company": "TechWave",
+    "location": "Remote",
+    "type": "remote",
+    "experience": "entry",
+    "salary": "$50k - $70k",
+    "skillsRequired": [
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Node.js"
+    ],
+    "description": "Full Stack Developer role working on techwave engineering initiatives."
+  },
+  {
+    "id": "job_2",
+    "title": "Software Engineer",
+    "company": "NexaSoft",
+    "location": "On-site",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$70k - $90k",
+    "skillsRequired": [
+      "TypeScript",
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js"
+    ],
+    "description": "Software Engineer role working on nexasoft engineering initiatives."
+  },
+  {
+    "id": "job_3",
+    "title": "Data Scientist",
+    "company": "DataPulse",
+    "location": "Hybrid",
+    "type": "Hybrid",
+    "experience": "senior",
+    "salary": "$80k - $110k",
+    "skillsRequired": [
+      "React.js",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python"
+    ],
+    "description": "Data Scientist role working on datapulse engineering initiatives."
+  },
+  {
+    "id": "job_4",
+    "title": "Machine Learning Engineer",
+    "company": "CloudSpan",
+    "location": "Bengaluru",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$100k - $130k",
+    "skillsRequired": [
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django"
+    ],
+    "description": "Machine Learning Engineer role working on cloudspan engineering initiatives."
+  },
+  {
+    "id": "job_5",
+    "title": "DevOps Engineer",
+    "company": "DevSphere",
+    "location": "New York",
+    "type": "on-site",
+    "experience": "entry",
+    "salary": "$120k - $150k",
+    "skillsRequired": [
+      "Vue.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask"
+    ],
+    "description": "DevOps Engineer role working on devsphere engineering initiatives."
+  },
+  {
+    "id": "job_6",
+    "title": "Cloud Architect",
+    "company": "SecureByte",
+    "location": "San Francisco",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$140k - $170k",
+    "skillsRequired": [
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask",
+      "Java"
+    ],
+    "description": "Cloud Architect role working on securebyte engineering initiatives."
+  },
+  {
+    "id": "job_7",
+    "title": "UI/UX Designer",
+    "company": "AppForge",
+    "location": "London",
+    "type": "on-site",
+    "experience": "senior",
+    "salary": "$160k - $190k",
+    "skillsRequired": [
+      "Express.js",
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot"
+    ],
+    "description": "UI/UX Designer role working on appforge engineering initiatives."
+  },
+  {
+    "id": "job_8",
+    "title": "Product Manager",
+    "company": "Visionary Labs",
+    "location": "Berlin",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$50k - $70k",
+    "skillsRequired": [
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin"
+    ],
+    "description": "Product Manager role working on visionary labs engineering initiatives."
+  },
+  {
+    "id": "job_9",
+    "title": "Cybersecurity Analyst",
+    "company": "ByteCraft",
+    "location": "Toronto",
+    "type": "on-site",
+    "experience": "entry",
+    "salary": "$70k - $90k",
+    "skillsRequired": [
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift"
+    ],
+    "description": "Cybersecurity Analyst role working on bytecraft engineering initiatives."
+  },
+  {
+    "id": "job_10",
+    "title": "Mobile App Developer",
+    "company": "FutureLink",
+    "location": "Singapore",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$80k - $110k",
+    "skillsRequired": [
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C"
+    ],
+    "description": "Mobile App Developer role working on futurelink engineering initiatives."
+  },
+  {
+    "id": "job_11",
+    "title": "Quality Assurance Engineer",
+    "company": "InfinityWorks",
+    "location": "Remote",
+    "type": "remote",
+    "experience": "senior",
+    "salary": "$100k - $130k",
+    "skillsRequired": [
+      "Java",
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#"
+    ],
+    "description": "Quality Assurance Engineer role working on infinityworks engineering initiatives."
+  },
+  {
+    "id": "job_12",
+    "title": "Business Analyst",
+    "company": "CodeCrafters",
+    "location": "On-site",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$120k - $150k",
+    "skillsRequired": [
+      "Spring Boot",
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET"
+    ],
+    "description": "Business Analyst role working on codecrafters engineering initiatives."
+  },
+  {
+    "id": "job_13",
+    "title": "Technical Project Manager",
+    "company": "QuantumWorks",
+    "location": "Hybrid",
+    "type": "Hybrid",
+    "experience": "entry",
+    "salary": "$140k - $170k",
+    "skillsRequired": [
+      "Kotlin",
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL"
+    ],
+    "description": "Technical Project Manager role working on quantumworks engineering initiatives."
+  },
+  {
+    "id": "job_14",
+    "title": "Systems Engineer",
+    "company": "NovaFusion",
+    "location": "Bengaluru",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$160k - $190k",
+    "skillsRequired": [
+      "Swift",
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL"
+    ],
+    "description": "Systems Engineer role working on novafusion engineering initiatives."
+  },
+  {
+    "id": "job_15",
+    "title": "Backend Engineer",
+    "company": "AI Nexus",
+    "location": "New York",
+    "type": "on-site",
+    "experience": "senior",
+    "salary": "$50k - $70k",
+    "skillsRequired": [
+      "Objective-C",
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "description": "Backend Engineer role working on ai nexus engineering initiatives."
+  },
+  {
+    "id": "job_16",
+    "title": "Frontend Developer",
+    "company": "Skyline Systems",
+    "location": "San Francisco",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$70k - $90k",
+    "skillsRequired": [
+      "C#",
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "description": "Frontend Developer role working on skyline systems engineering initiatives."
+  },
+  {
+    "id": "job_17",
+    "title": "AI Research Engineer",
+    "company": "BlueWave Tech",
+    "location": "London",
+    "type": "on-site",
+    "experience": "entry",
+    "salary": "$80k - $110k",
+    "skillsRequired": [
+      ".NET",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "description": "AI Research Engineer role working on bluewave tech engineering initiatives."
+  },
+  {
+    "id": "job_18",
+    "title": "Data Engineer",
+    "company": "NextGen Solutions",
+    "location": "Berlin",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$100k - $130k",
+    "skillsRequired": [
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services"
+    ],
+    "description": "Data Engineer role working on nextgen solutions engineering initiatives."
+  },
+  {
+    "id": "job_19",
+    "title": "Technical Support Engineer",
+    "company": "SparksTech",
+    "location": "Toronto",
+    "type": "on-site",
+    "experience": "senior",
+    "salary": "$120k - $150k",
+    "skillsRequired": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure"
+    ],
+    "description": "Technical Support Engineer role working on sparkstech engineering initiatives."
+  },
+  {
+    "id": "job_20",
+    "title": "Network Engineer",
+    "company": "Vertex Innovations",
+    "location": "Singapore",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$140k - $170k",
+    "skillsRequired": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud"
+    ],
+    "description": "Network Engineer role working on vertex innovations engineering initiatives."
+  },
+  {
+    "id": "job_21",
+    "title": "Database Administrator",
+    "company": "Pioneer Labs",
+    "location": "Remote",
+    "type": "remote",
+    "experience": "entry",
+    "salary": "$160k - $190k",
+    "skillsRequired": [
+      "MongoDB",
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud",
+      "Docker"
+    ],
+    "description": "Database Administrator role working on pioneer labs engineering initiatives."
+  },
+  {
+    "id": "job_22",
+    "title": "Blockchain Developer",
+    "company": "TechWave",
+    "location": "On-site",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$50k - $70k",
+    "skillsRequired": [
+      "Redis",
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes"
+    ],
+    "description": "Blockchain Developer role working on techwave engineering initiatives."
+  },
+  {
+    "id": "job_23",
+    "title": "Site Reliability Engineer",
+    "company": "NexaSoft",
+    "location": "Hybrid",
+    "type": "Hybrid",
+    "experience": "senior",
+    "salary": "$70k - $90k",
+    "skillsRequired": [
+      "AWS/Cloud Services",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "description": "Site Reliability Engineer role working on nexasoft engineering initiatives."
+  },
+  {
+    "id": "job_24",
+    "title": "Embedded Systems Engineer",
+    "company": "DataPulse",
+    "location": "Bengaluru",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$80k - $110k",
+    "skillsRequired": [
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform"
+    ],
+    "description": "Embedded Systems Engineer role working on datapulse engineering initiatives."
+  },
+  {
+    "id": "job_25",
+    "title": "Game Developer",
+    "company": "CloudSpan",
+    "location": "New York",
+    "type": "on-site",
+    "experience": "entry",
+    "salary": "$100k - $130k",
+    "skillsRequired": [
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Git"
+    ],
+    "description": "Game Developer role working on cloudspan engineering initiatives."
+  },
+  {
+    "id": "job_26",
+    "title": "E-commerce Specialist",
+    "company": "DevSphere",
+    "location": "San Francisco",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$120k - $150k",
+    "skillsRequired": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Git",
+      "GitHub"
+    ],
+    "description": "E-commerce Specialist role working on devsphere engineering initiatives."
+  },
+  {
+    "id": "job_27",
+    "title": "Salesforce Developer",
+    "company": "SecureByte",
+    "location": "London",
+    "type": "on-site",
+    "experience": "senior",
+    "salary": "$140k - $170k",
+    "skillsRequired": [
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Git",
+      "GitHub",
+      "REST APIs"
+    ],
+    "description": "Salesforce Developer role working on securebyte engineering initiatives."
+  },
+  {
+    "id": "job_28",
+    "title": "Digital Marketing Specialist",
+    "company": "AppForge",
+    "location": "Berlin",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$160k - $190k",
+    "skillsRequired": [
+      "CI/CD",
+      "Terraform",
+      "Git",
+      "GitHub",
+      "REST APIs",
+      "GraphQL"
+    ],
+    "description": "Digital Marketing Specialist role working on appforge engineering initiatives."
+  },
+  {
+    "id": "job_29",
+    "title": "Cloud Security Engineer",
+    "company": "Visionary Labs",
+    "location": "Toronto",
+    "type": "on-site",
+    "experience": "entry",
+    "salary": "$50k - $70k",
+    "skillsRequired": [
+      "Terraform",
+      "Git",
+      "GitHub",
+      "REST APIs",
+      "GraphQL",
+      "Machine Learning"
+    ],
+    "description": "Cloud Security Engineer role working on visionary labs engineering initiatives."
+  },
+  {
+    "id": "job_30",
+    "title": "IoT Engineer",
+    "company": "ByteCraft",
+    "location": "Singapore",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$70k - $90k",
+    "skillsRequired": [
+      "Git",
+      "GitHub",
+      "REST APIs",
+      "GraphQL",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "description": "IoT Engineer role working on bytecraft engineering initiatives."
+  },
+  {
+    "id": "job_31",
+    "title": "Full Stack Developer",
+    "company": "FutureLink",
+    "location": "Remote",
+    "type": "remote",
+    "experience": "senior",
+    "salary": "$80k - $110k",
+    "skillsRequired": [
+      "GitHub",
+      "REST APIs",
+      "GraphQL",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "description": "Full Stack Developer role working on futurelink engineering initiatives."
+  },
+  {
+    "id": "job_32",
+    "title": "Software Engineer",
+    "company": "InfinityWorks",
+    "location": "On-site",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$100k - $130k",
+    "skillsRequired": [
+      "REST APIs",
+      "GraphQL",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn"
+    ],
+    "description": "Software Engineer role working on infinityworks engineering initiatives."
+  },
+  {
+    "id": "job_33",
+    "title": "Data Scientist",
+    "company": "CodeCrafters",
+    "location": "Hybrid",
+    "type": "Hybrid",
+    "experience": "entry",
+    "salary": "$120k - $150k",
+    "skillsRequired": [
+      "GraphQL",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Pandas"
+    ],
+    "description": "Data Scientist role working on codecrafters engineering initiatives."
+  },
+  {
+    "id": "job_34",
+    "title": "Machine Learning Engineer",
+    "company": "QuantumWorks",
+    "location": "Bengaluru",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$140k - $170k",
+    "skillsRequired": [
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Pandas",
+      "NumPy"
+    ],
+    "description": "Machine Learning Engineer role working on quantumworks engineering initiatives."
+  },
+  {
+    "id": "job_35",
+    "title": "DevOps Engineer",
+    "company": "NovaFusion",
+    "location": "New York",
+    "type": "on-site",
+    "experience": "senior",
+    "salary": "$160k - $190k",
+    "skillsRequired": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Data Engineering"
+    ],
+    "description": "DevOps Engineer role working on novafusion engineering initiatives."
+  },
+  {
+    "id": "job_36",
+    "title": "Cloud Architect",
+    "company": "AI Nexus",
+    "location": "San Francisco",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$50k - $70k",
+    "skillsRequired": [
+      "PyTorch",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Data Engineering",
+      "Big Data"
+    ],
+    "description": "Cloud Architect role working on ai nexus engineering initiatives."
+  },
+  {
+    "id": "job_37",
+    "title": "UI/UX Designer",
+    "company": "Skyline Systems",
+    "location": "London",
+    "type": "on-site",
+    "experience": "entry",
+    "salary": "$70k - $90k",
+    "skillsRequired": [
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Data Engineering",
+      "Big Data",
+      "Spark"
+    ],
+    "description": "UI/UX Designer role working on skyline systems engineering initiatives."
+  },
+  {
+    "id": "job_38",
+    "title": "Product Manager",
+    "company": "BlueWave Tech",
+    "location": "Berlin",
+    "type": "on-site",
+    "experience": "mid",
+    "salary": "$80k - $110k",
+    "skillsRequired": [
+      "Pandas",
+      "NumPy",
+      "Data Engineering",
+      "Big Data",
+      "Spark",
+      "Hadoop"
+    ],
+    "description": "Product Manager role working on bluewave tech engineering initiatives."
+  },
+  {
+    "id": "job_39",
+    "title": "Cybersecurity Analyst",
+    "company": "NextGen Solutions",
+    "location": "Toronto",
+    "type": "on-site",
+    "experience": "senior",
+    "salary": "$100k - $130k",
+    "skillsRequired": [
+      "NumPy",
+      "Data Engineering",
+      "Big Data",
+      "Spark",
+      "Hadoop",
+      "Cyber Security"
+    ],
+    "description": "Cybersecurity Analyst role working on nextgen solutions engineering initiatives."
+  },
+  {
+    "id": "job_40",
+    "title": "Mobile App Developer",
+    "company": "SparksTech",
+    "location": "Singapore",
+    "type": "on-site",
+    "experience": "lead",
+    "salary": "$120k - $150k",
+    "skillsRequired": [
+      "Data Engineering",
+      "Big Data",
+      "Spark",
+      "Hadoop",
+      "Cyber Security",
+      "Network Security"
+    ],
+    "description": "Mobile App Developer role working on sparkstech engineering initiatives."
+  }
+]
